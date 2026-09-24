@@ -6,7 +6,7 @@ A responsive Product Admin Dashboard built with **Next.js, React, Tailwind CSS, 
 
 Add your Vercel or Netlify link here after deployment:
 
-`http://localhost:3001`
+`YOUR-LIVE-LINK`
 
 ## GitHub Repository
 
@@ -145,4 +145,4 @@ The commit history includes stages such as:
 ## Submission
 
 * **GitHub Repository:** `https://github.com/dhanashri-babar/product-admin-dashboard`
-* **Live Demo:**  http://localhost:3001.
+* **Live Demo:**  .
